@@ -1,4 +1,5 @@
 # Corenlp-client
+[![NPM version](https://badge.fury.io/js/corenlp-client.svg)](http://badge.fury.io/js/corenlp-client) 
 
 Simple corenlp client to the corenlp http server using request-promise
 
@@ -18,3 +19,8 @@ client.annotate("the quick brown fox jumped over the lazy dog")
 
 ```
 
+## History
+
+### 1.0.0
+
+* works
