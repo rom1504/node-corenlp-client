@@ -1,0 +1,24 @@
+{
+  "name": "corenlp-client",
+  "version": "1.0.0",
+  "description": "Simple corenlp client to the corenlp http server using request-promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "corenlp",
+    "client",
+    "nlp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rom1504/node-corenlp⁻client.git"
+  },
+  "author": "Romain Beaumont <romain.rom1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
