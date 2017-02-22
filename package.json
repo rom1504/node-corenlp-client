@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/rom1504/node-corenlp⁻client.git"
+    "url": "git://github.com/rom1504/node-corenlp-client.git"
   },
   "author": "Romain Beaumont <romain.rom1@gmail.com>",
   "license": "MIT",
